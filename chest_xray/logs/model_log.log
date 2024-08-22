@@ -1,0 +1,403 @@
+2024-08-21T10:17:11,833 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9015, pid=212
+2024-08-21T10:17:11,833 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9011, pid=209
+2024-08-21T10:17:11,839 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9014, pid=215
+2024-08-21T10:17:11,841 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9011
+2024-08-21T10:17:11,833 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9006, pid=167
+2024-08-21T10:17:11,842 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9014
+2024-08-21T10:17:11,844 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9006
+2024-08-21T10:17:11,839 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9015
+2024-08-21T10:17:11,834 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9008, pid=204
+2024-08-21T10:17:11,849 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9009, pid=203
+2024-08-21T10:17:11,852 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9008
+2024-08-21T10:17:11,853 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9009
+2024-08-21T10:17:11,857 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9002, pid=168
+2024-08-21T10:17:11,860 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9002
+2024-08-21T10:17:11,863 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9004, pid=163
+2024-08-21T10:17:11,863 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9013, pid=211
+2024-08-21T10:17:11,869 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9000, pid=165
+2024-08-21T10:17:11,871 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9004
+2024-08-21T10:17:11,871 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9003, pid=166
+2024-08-21T10:17:11,872 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9000
+2024-08-21T10:17:11,873 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9013
+2024-08-21T10:17:11,874 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9003
+2024-08-21T10:17:11,879 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9005, pid=170
+2024-08-21T10:17:11,884 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,887 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - [PID]212
+2024-08-21T10:17:11,889 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,889 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9010, pid=206
+2024-08-21T10:17:11,890 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9001, pid=164
+2024-08-21T10:17:11,891 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,893 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9012, pid=213
+2024-08-21T10:17:11,893 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9001
+2024-08-21T10:17:11,894 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9010
+2024-08-21T10:17:11,896 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9012
+2024-08-21T10:17:11,898 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,900 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9005
+2024-08-21T10:17:11,901 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - [PID]167
+2024-08-21T10:17:11,902 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,905 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,916 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,918 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,919 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,918 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - [PID]204
+2024-08-21T10:17:11,919 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - [PID]211
+2024-08-21T10:17:11,921 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,922 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,926 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9007, pid=169
+2024-08-21T10:17:11,924 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,928 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,927 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9007
+2024-08-21T10:17:11,936 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - [PID]209
+2024-08-21T10:17:11,924 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - [PID]215
+2024-08-21T10:17:11,938 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,928 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,928 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,939 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,941 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,936 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,929 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - [PID]203
+2024-08-21T10:17:11,941 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,943 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - [PID]166
+2024-08-21T10:17:11,944 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - [PID]213
+2024-08-21T10:17:11,952 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,954 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,958 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,968 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,968 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,969 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,969 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,970 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - [PID]163
+2024-08-21T10:17:11,969 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,971 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,972 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - [PID]168
+2024-08-21T10:17:11,973 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,971 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - [PID]170
+2024-08-21T10:17:11,973 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,973 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,973 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,974 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,975 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - [PID]206
+2024-08-21T10:17:11,975 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:11,979 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,979 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - [PID]165
+2024-08-21T10:17:11,984 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:11,984 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:17:11,985 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - [PID]164
+2024-08-21T10:17:11,987 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:12,002 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:12,002 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:12,004 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:12,005 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - [PID]169
+2024-08-21T10:17:12,006 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:12,021 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:12,020 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:12,026 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:17:12,045 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:12,054 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:17:12,103 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9013.
+2024-08-21T10:17:12,105 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9015.
+2024-08-21T10:17:12,105 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9007.
+2024-08-21T10:17:12,105 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9014.
+2024-08-21T10:17:12,105 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9008.
+2024-08-21T10:17:12,104 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9004.
+2024-08-21T10:17:12,103 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9012.
+2024-08-21T10:17:12,103 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9009.
+2024-08-21T10:17:12,103 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9006.
+2024-08-21T10:17:12,103 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9002.
+2024-08-21T10:17:12,104 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9005.
+2024-08-21T10:17:12,104 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9001.
+2024-08-21T10:17:12,104 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9003.
+2024-08-21T10:17:12,105 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9000.
+2024-08-21T10:17:12,106 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9011.
+2024-08-21T10:17:12,106 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9010.
+2024-08-21T10:17:12,396 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:17:12,396 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:17:12,398 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:17:12,399 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:17:12,400 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:17:12,398 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:17:12,397 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:17:12,417 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:17:12,417 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:17:12,417 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:17:12,418 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:17:12,418 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:17:12,417 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:17:12,444 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:17:12,468 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:17:12,476 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:17:12,627 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,627 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,629 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,629 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,629 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,629 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,628 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,628 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,627 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,636 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,635 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,628 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,628 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,638 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,632 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,631 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,631 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,629 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,629 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,641 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,640 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,633 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:17:12,639 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,638 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,633 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,637 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,645 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,645 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,637 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,634 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,637 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,635 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,647 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,648 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,637 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,644 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,642 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,650 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,641 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,652 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,642 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:17:12,644 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,643 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,650 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,648 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,652 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,651 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:17:12,654 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:18:27,414 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:18:27,414 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:19:41,503 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,569 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,569 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,637 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,662 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:19:41,503 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Frontend disconnected.
+2024-08-21T10:20:27,741 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9002, pid=537
+2024-08-21T10:20:27,749 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9002
+2024-08-21T10:20:27,750 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9006, pid=546
+2024-08-21T10:20:27,761 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9008, pid=535
+2024-08-21T10:20:27,762 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9006
+2024-08-21T10:20:27,760 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9003, pid=547
+2024-08-21T10:20:27,757 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9009, pid=544
+2024-08-21T10:20:27,797 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,790 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9013, pid=531
+2024-08-21T10:20:27,790 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9015, pid=536
+2024-08-21T10:20:27,786 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9010, pid=539
+2024-08-21T10:20:27,782 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9005, pid=558
+2024-08-21T10:20:27,807 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9015
+2024-08-21T10:20:27,778 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9007, pid=543
+2024-08-21T10:20:27,808 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - [PID]537
+2024-08-21T10:20:27,809 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9010
+2024-08-21T10:20:27,775 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9014, pid=545
+2024-08-21T10:20:27,771 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9011, pid=553
+2024-08-21T10:20:27,810 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9007
+2024-08-21T10:20:27,809 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9005
+2024-08-21T10:20:27,777 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9001, pid=555
+2024-08-21T10:20:27,809 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9012, pid=534
+2024-08-21T10:20:27,808 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9003
+2024-08-21T10:20:27,812 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,806 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9008
+2024-08-21T10:20:27,812 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9013
+2024-08-21T10:20:27,811 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9011
+2024-08-21T10:20:27,813 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9009
+2024-08-21T10:20:27,814 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9000, pid=557
+2024-08-21T10:20:27,814 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9001
+2024-08-21T10:20:27,816 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9014
+2024-08-21T10:20:27,816 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,817 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,819 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9000
+2024-08-21T10:20:27,819 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,839 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,838 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,837 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,848 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - [PID]555
+2024-08-21T10:20:27,837 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,836 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,849 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - [PID]536
+2024-08-21T10:20:27,836 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,830 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,850 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,850 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - [PID]535
+2024-08-21T10:20:27,824 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - s_name_part0=/home/model-server/tmp/.ts.sock, s_name_part1=9004, pid=551
+2024-08-21T10:20:27,829 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,830 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,851 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,836 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,836 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,848 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,848 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - [PID]545
+2024-08-21T10:20:27,837 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - [PID]543
+2024-08-21T10:20:27,837 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - [PID]546
+2024-08-21T10:20:27,838 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9012
+2024-08-21T10:20:27,847 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - [PID]544
+2024-08-21T10:20:27,853 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,853 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Listening on port: /home/model-server/tmp/.ts.sock.9004
+2024-08-21T10:20:27,848 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - [PID]557
+2024-08-21T10:20:27,852 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - [PID]547
+2024-08-21T10:20:27,852 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - [PID]553
+2024-08-21T10:20:27,851 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,850 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - [PID]531
+2024-08-21T10:20:27,856 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,855 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,855 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,853 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,854 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,853 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - [PID]558
+2024-08-21T10:20:27,857 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Successfully loaded /home/venv/lib/python3.9/site-packages/ts/configs/metrics.yaml.
+2024-08-21T10:20:27,857 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,857 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,856 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,856 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,858 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - [PID]551
+2024-08-21T10:20:27,857 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,858 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,859 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,859 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,860 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,859 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,861 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,861 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,861 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,863 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - [PID]539
+2024-08-21T10:20:27,864 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - [PID]534
+2024-08-21T10:20:27,864 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,865 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,865 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,866 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Torch worker started.
+2024-08-21T10:20:27,867 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,867 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,868 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:27,868 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Python runtime: 3.9.19
+2024-08-21T10:20:28,268 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9001.
+2024-08-21T10:20:28,268 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9002.
+2024-08-21T10:20:28,269 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9009.
+2024-08-21T10:20:28,269 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9012.
+2024-08-21T10:20:28,269 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9004.
+2024-08-21T10:20:28,268 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9007.
+2024-08-21T10:20:28,268 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9010.
+2024-08-21T10:20:28,268 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9008.
+2024-08-21T10:20:28,268 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9006.
+2024-08-21T10:20:28,268 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9015.
+2024-08-21T10:20:28,268 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9003.
+2024-08-21T10:20:28,268 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9014.
+2024-08-21T10:20:28,268 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9013.
+2024-08-21T10:20:28,269 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9011.
+2024-08-21T10:20:28,276 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9005.
+2024-08-21T10:20:28,413 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Connection accepted: /home/model-server/tmp/.ts.sock.9000.
+2024-08-21T10:20:28,427 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:20:28,427 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:20:28,427 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:20:28,428 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:20:28,428 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:20:28,428 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:20:28,428 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:20:28,428 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:20:28,428 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:20:28,428 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:20:28,427 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:20:28,427 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:20:28,427 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:20:28,427 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - model_name: chestxray, batchSize: 1
+2024-08-21T10:20:28,427 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:20:28,427 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - model_name: mnist, batchSize: 1
+2024-08-21T10:20:28,627 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,627 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,628 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,627 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,627 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,630 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,631 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,631 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,631 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,632 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,627 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,627 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,632 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,633 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,633 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,627 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,631 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,627 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,635 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,635 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,635 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,630 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,629 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,630 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,629 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,629 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,629 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - OpenVINO is not enabled
+2024-08-21T10:20:28,636 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,630 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,638 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,634 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,633 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,638 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,639 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,638 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,640 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,638 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,639 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,639 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,641 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,640 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,641 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,642 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - proceeding without onnxruntime
+2024-08-21T10:20:28,642 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,643 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,643 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,644 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:28,645 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - Torch TensorRT not enabled
+2024-08-21T10:20:43,495 [INFO ] W-9005-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:43,503 [INFO ] W-9003-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:43,504 [INFO ] W-9000-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:43,566 [INFO ] W-9001-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:43,582 [INFO ] W-9007-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:44,039 [INFO ] W-9004-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:44,494 [INFO ] W-9006-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:44,553 [INFO ] W-9002-mnist_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/e870df45469c4cfa8e8332d247355838/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:59,391 [INFO ] W-9008-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:59,405 [INFO ] W-9012-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:59,429 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:59,413 [INFO ] W-9009-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:59,449 [INFO ] W-9010-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:59,441 [INFO ] W-9015-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:20:59,438 [INFO ] W-9011-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:21:00,024 [INFO ] W-9014-chestxray_2.0-stdout MODEL_LOG - Backend received inference at: 1724235657
+2024-08-21T10:21:02,399 [INFO ] W-9013-chestxray_2.0-stdout MODEL_LOG - '/home/model-server/tmp/models/0a2d338282d64668ac07e875bc55b86e/index_to_name.json' is missing. Inference output will not include class name.
+2024-08-21T10:21:18,183 [WARN ] W-9014-chestxray_2.0-stderr MODEL_LOG - /home/venv/lib/python3.9/site-packages/torch/nn/functional.py:1374: UserWarning: dropout2d: Received a 2-D input to dropout2d, which is deprecated and will result in an error in a future release. To retain the behavior and silence this warning, please use dropout instead. Note that dropout2d exists to provide channel-wise dropout on inputs with 2 spatial dimensions, a channel dimension, and an optional batch dimension (i.e. 3D or 4D inputs).
+2024-08-21T10:21:22,017 [WARN ] W-9014-chestxray_2.0-stderr MODEL_LOG -   warnings.warn(warn_msg)
